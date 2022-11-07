@@ -1,16 +1,15 @@
-# flutter_contacts
+# Flutter Contacts App
 
-A new Flutter project.
+A completely responsive Contact App- Works on Android & IOS
 
-## Getting Started
+## Features
+- Add Contacts 
+- Delete Contacts
+- Edit Contacts
+- Search Contacts
 
-This project is a starting point for a Flutter application.
+### Images of App
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/67046451/200261309-87faa60a-5317-4642-aa3b-10b87b4585d7.png">"width="150" height="280">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/67046451/200261652-04f1297d-407c-4e56-b174-d76628d93ef6.png">">"width="150" height="280">
